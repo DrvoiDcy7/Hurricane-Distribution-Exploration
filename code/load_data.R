@@ -8,6 +8,9 @@ any(grepl("openxlsx",installed.packages()))
 library("openxlsx")
 
 rm(list=ls())
+# use the exact file name
+# hurricane4 <- read.xlsx(hurricane#4_clean.xlsx)
+# hurricane5 <- read.xlsx(hurricane#5_clean.xlsx)
 hurrican4 <- read.xlsx("hurricaneData.xlsx", 1)
 hurrican5 <- read.xlsx("hurricaneData.xlsx", 3)
 #check raw data
