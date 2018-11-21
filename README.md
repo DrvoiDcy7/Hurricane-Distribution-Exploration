@@ -1,5 +1,11 @@
 # Hurricane-Distribution-Exploration
-Statistics, course project, 2018, Rutgers University  
+```
+STAT581 Statistics  
+Chengyuan Deng  
+Department of Computer Science  
+Rutgers University  
+2018.10
+```
 ## Project Instructions:  
   Use data links:  
   •https://en.wikipedia.org/wiki/List_of_Category_4_Atlantic_hurricanes  
